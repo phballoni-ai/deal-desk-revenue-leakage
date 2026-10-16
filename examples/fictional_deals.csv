@@ -1,0 +1,13 @@
+deal_id,account,list_acv,discount_pct,delivery_cost,implementation_cost,payment_days,probability_pct
+D001,Northstar Systems (fictional),180000,10,82000,17000,30,75
+D002,Cobalt Group (fictional),95000,28,50000,23000,90,45
+D003,Beacon Operations (fictional),300000,8,155000,25000,45,80
+D004,Arbor Analytics (fictional),110000,35,61000,22000,120,35
+D005,Sequoia Works (fictional),240000,15,125000,32000,60,65
+D006,Vector Labs (fictional),70000,5,34000,9500,30,55
+D007,Meridian Services (fictional),150000,22,100000,18000,75,60
+D008,Orion Partners (fictional),200000,0,89000,26000,30,90
+D009,Helios Technology (fictional),125000,30,68000,18000,90,50
+D010,Atlas Connect (fictional),280000,12,150000,35000,45,70
+D011,Pioneer Cloud (fictional),88000,18,42000,16000,15,40
+D012,Delta Bridge (fictional),165000,25,90000,31000,90,55
